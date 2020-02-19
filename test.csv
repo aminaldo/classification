@@ -1,0 +1,96 @@
+﻿signe1;signe2;signe3;signe4;sign5;signe6;signe7;signe8;Pathologies
+5;9;0;0;0;0;0;0;Préeclampsie
+9;5;0;0;0;0;0;0;Préeclampsie
+23;26;27;0;0;0;0;0;Macrosomie
+40;0;0;0;0;0;0;0;Utérus cicatriciel
+1;2;6;0;0;0;0;0;Avortement
+0;0;0;0;0;0;0;0;trillat
+19;0;0;0;0;0;0;0;grossesse_prolongée
+20;21;0;0;0;0;0;0;Bassin_rétréci
+1;2;6;0;0;0;0;0;Avortement
+0;0;0;0;0;0;0;0;Souffle auculatoire
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+20;21;0;0;1;0;0;0;Souffrance foetale aigue
+19;0;0;0;0;0;0;0;Dépassement de terme
+19;0;0;0;0;0;0;0;Dépassement de terme
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+5;9;17;0;0;0;0;0;Eclampsie
+28;0;0;0;0;0;0;0;Accouchement premature
+23;26;27;0;0;0;0;0;Macrosomie
+40;0;0;0;0;0;0;0;Utérus cicatriciel
+2;1;6;0;0;0;0;0;Avortement
+12;24;0;0;0;0;0;0;Retension d œuf mort
+19;0;0;0;0;0;0;0;grossesse_prolongée
+72;0;0;0;0;0;0;0;etat foetale non rassurant
+2;6;1;0;0;0;0;0;Avortement
+4;0;0;0;0;0;0;0;syndrome de prérupture
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+19;0;0;0;0;0;0;0;Dépassement de terme
+19;0;0;0;0;0;0;0;ALBIMUNIRIE >300mm
+22;0;0;0;0;0;0;0;Rupture premature des membranes
+29;30;31;0;0;0;0;0;Hematome retroplacentaire
+1;34;35;36;0;0;0;0;Mole hydatiforme
+1;7;71;0;0;0;0;0;placenta praevia
+44;45;46;0;0;0;0;0;Anemie post partum
+37;0;0;0;0;0;0;0;Dystocie des epaules
+52;0;0;0;0;0;0;0;Trombus
+32;38;0;0;0;0;0;0;Diabete et grossesse
+45;44;46;0;0;0;0;0;Anemie post partum
+45;46;44;0;0;0;0;0;Anemie post partum
+42;72;73;0;0;0;0;0;SF chronique
+13;33;0;0;0;0;0;0;coma febrile
+33;13;0;0;0;0;0;0;coma febrile
+13;14;0;0;0;0;0;0;syndrome infectieux
+14;13;0;0;0;0;0;0;syndrome infectieux
+23;64;0;0;0;0;0;0;Defaut d expulsion
+64;23;0;0;0;0;0;0;Defaut d expulsion
+25;0;0;0;0;0;0;0;Utérus bi_cicatriciel
+41;0;0;0;0;0;0;0;Mort intra partum
+39;0;0;0;0;0;0;0;Uterus tri_cicatriciel
+45;46;44;0;0;0;0;0;Anemie post partum
+41;0;0;0;0;0;0;0;Mort intra partum
+13;33;0;0;0;0;0;0;coma febrile
+1;2;6;0;0;0;0;0;Avortement
+0;0;0;0;0;0;0;0;Souffle auculatoire
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+20;21;0;0;1;0;0;0;Souffrance foetale aigue
+19;0;0;0;0;0;0;0;Dépassement de terme
+20;21;0;0;0;0;0;0;Souffrance foetale aigue
+5;9;17;0;0;0;0;0;Eclampsie
+19;0;0;0;0;0;0;0;Dépassement de terme
+19;0;0;0;0;0;0;0;ALBIMUNIRIE >300mm
+22;0;0;0;0;0;0;0;Rupture premature des membranes
+29;30;31;0;0;0;0;0;Hematome retroplacentaire
+1;34;35;36;0;0;0;0;Mole hydatiforme
+1;7;71;0;0;0;0;0;placenta praevia
+44;45;46;0;0;0;0;0;Anemie post partum
+37;0;0;0;0;0;0;0;Dystocie des epaules
+52;0;0;0;0;0;0;0;Trombus
+32;38;0;0;0;0;0;0;Diabete et grossesse
+45;44;46;0;0;0;0;0;Anemie post partum
+45;46;44;0;0;0;0;0;Anemie post partum
+42;72;73;0;0;0;0;0;SF chronique
+13;33;0;0;0;0;0;0;coma febrile
+33;13;0;0;0;0;0;0;coma febrile
+13;14;0;0;0;0;0;0;syndrome infectieux
+1;6;2;0;0;0;0;0;Avortement
+23;27;26;0;0;0;0;0;Macrosomie
+23;26;27;0;0;0;0;0;Macrosomie
+27;26;23;0;0;0;0;0;Macrosomie
+42;72;73;0;0;0;0;0;SF chronique
+42;73;72;0;0;0;0;0;SF chronique
+73;72;42;0;0;0;0;0;SF chronique
+33;13;0;0;0;0;0;0;coma febrile
+13;14;0;0;0;0;0;0;syndrome infectieux
+1;6;2;0;0;0;0;0;Avortement
+23;27;26;0;0;0;0;0;Macrosomie
+33;13;0;0;0;0;0;0;coma febrile
+13;14;0;0;0;0;0;0;syndrome infectieux
+1;6;2;0;0;0;0;0;Avortement
+23;27;26;0;0;0;0;0;Macrosomie
+2;1;6;0;0;0;0;0;Avortement
+6;1;2;0;0;0;0;0;Avortement
+2;6;1;0;0;0;0;0;Avortement
+2;6;1;0;0;0;0;0;Avortement
